@@ -1,4 +1,5 @@
 # hate-tweet
+<h1>Mitigating Online Harms: Hate Speech Detection in Tweets using Machine Learning and Natural Language Processing</h1>
 <p>In this study, we have employed two distinct datasets to conduct our analysis. The primary dataset utilized for training purposes comprises 32,000 entries, each possessing three pivotal columns: 'ID', 'Tweet', and 'Label'.</p>
 <p>In our study, we diligently pursued feature engineering to enhance our understanding of tweet characteristics and their potential influence on classification. We derived various features from the tweet corpus, encompassing tweet length, hashtag count, exclamation marks, question marks, tags, punctuations, and word count.</p>
 <p>One significant challenge we encountered with the dataset was its high imbalance, notably visible in the pie chart, where only 7% of the data was labeled as hate tweets.  To address this issue, we employed a technique known as Synthetic Minority Oversampling Technique (SMOTE). </p>
